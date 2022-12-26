@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sika-007
+- 👋 Hi, I’m Nsikak.
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: nsikakthomas102@gmail.com
 
 <!---
