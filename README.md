@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nsikak.
-- 👀 I’m interested in Web development
-- 🌱 I’m proficient at HTML, CSS and JavaScript
+- 👀 Your friendly neighbourhood frontend engineer
+- 🌱 HTML/JSX || CSS || JS || React.js
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: nsikakthomas102@gmail.com
 
