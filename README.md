@@ -28,7 +28,7 @@ Quite a small project but I challenged myself to build something beautiful, dyna
 
 ## Contact me
 
-I'm open to working and collaborate on projects. You can reach me via [email](nsikakthomas102@gmail.com)
+I'm open to working and collaborating on projects. You can reach me via [email](nsikakthomas102@gmail.com)
 
 
 <!---
