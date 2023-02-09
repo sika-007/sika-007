@@ -29,7 +29,7 @@ Quite a small project but I challenged myself to build something beautiful, dyna
 ## Contact me
 
 I'm open to working and collaborating on projects. You can reach me via: 
-- [email](nsikakthomas102@gmail.com)
+- [email](mailto:nsikakthomas102@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/dev-sika/)
 - [twitter](https://twitter.com/Un_sika)
 
