@@ -12,9 +12,14 @@ I'm Sika, Your friendly neighbourhood frontend engineer passionate about creatin
 ### Here are some selected projects to showcase my abilities
 
 #### Modern UI webpage (React)
-By far the most appealing thing I've built so far😋
+By far the most visually-appealing thing I've built so far😋
 - [View web page](https://modern-ui-webpage-by-sika.netlify.app) 
 - [GitHub repository](https://github.com/sika-007/gpt3_jsm)
+
+### Shopping Cart Application (React)
+The highlight of this project was definitely the implementation of the React useContext API. Probably pulled some hair strands out my head trying to figure stuff out here🤣🤣. Well, the frustration was worth it and it came out real nice afterall.
+- [View web application](https://shopping-cart-application-by-sika.netlify.app/)
+- [GitHub repository](https://github.com/sika-007/shopping-cart)
 
 #### Tenzies Game (React)
 The JS logic and CSS on this one made it really fun😙
