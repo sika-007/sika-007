@@ -3,7 +3,7 @@
 I'm Sika, Your friendly neighbourhood frontend engineer passionate about creating appealing, interactive, efficient and responsive web products.
 
 ## Technologies I use 🤓
-- HTML
+- HTML/JSX
 - CSS
 - JS (Vanilla)
 - React
