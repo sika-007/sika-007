@@ -2,13 +2,11 @@
 ## Hi there 🤙👋
 I'm Sika, Your friendly neighbourhood frontend engineer passionate about creating appealing, interactive, efficient and responsive web products.
 
-## Technologies I use 🤓
-- HTML
-- JSX
-- CSS
-- SASS
+## Technical Skills 🤓
+- HTML & JSX
+- CSS, SCSS & Tailwind.css
 - JS (Vanilla)
-- React
+- React.js
 
 ## Wanna see the cool stuff I can do? 😏
 ### Here are some selected projects to showcase my abilities
