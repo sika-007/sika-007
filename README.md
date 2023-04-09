@@ -1,35 +1,39 @@
+<div align="center"><img width=300px src="https://user-images.githubusercontent.com/120806295/230746442-9a06f59d-2101-4562-a882-8faf09911fe9.png" /></div>
+
 # About Me
-## Hi there 🤙👋
+### Hi there 🤙👋
+
 I'm Sika, Your friendly neighbourhood frontend engineer passionate about creating appealing, interactive, efficient and responsive web products.
 
 ## Technical Skills 🤓
-- HTML & JSX
-- CSS, SCSS & Tailwindcss
+- HTML5 & JSX
+- CSS3, SCSS & Tailwindcss
 - JS (Vanilla)
 - React.js
+- Material UI
+- Framer Motion and Three.js
 
-## Wanna see the cool stuff I can do? 😏
-### Here are some selected projects to showcase my abilities
+## <p align="left">Wanna see the cool stuff I can do? 😏</p>
+Some selected projects to showcase my abilities. To see more, you can always hop into the Repositories section
 
-#### Modern UI webpage (React)
-By far the most visually-appealing thing I've built so far😋
-- [View web page](https://modern-ui-webpage-by-sika.netlify.app) 
-- [GitHub repository](https://github.com/sika-007/gpt3_jsm)
+### Youtube Clone
+<div align="center"><img width=500 src="https://user-images.githubusercontent.com/120806295/230747145-e268bae1-6e89-45e7-a24e-b03628852513.png" /></div>
 
-#### Shopping Cart Application (React)
-The highlight of this project was definitely the implementation of the React useContext API. Probably pulled some hair strands out my head trying to figure stuff out here🤣🤣. Well, the frustration was worth it and it came out real nice afterall.
-- [View web application](https://shopping-cart-application-by-sika.netlify.app/)
-- [GitHub repository](https://github.com/sika-007/shopping-cart)
+- [View web page](https://yt-clone-by-sika.netlify.app) 
+- [View source code](https://github.com/sika-007/youtube-clone)
 
-#### Tenzies Game (React)
-The JS logic and CSS on this one made it really fun😙
-- [Play the game](https://tenzies-game-by-sika.netlify.app)
-- [GitHub repository](https://github.com/sika-007/tenzies-game)
+### Siktionary
+<div align="center"><img width=500 src="https://user-images.githubusercontent.com/120806295/230747409-9d91cc7c-fd5d-4d33-9deb-dac49a55f489.png" /></div>
 
-#### Expenses chart component
-Quite a small project but I challenged myself to build something beautiful, dynamic and interactive using HTML, CSS and vanilla JS alone. No frameworks involved😎
-- [Check it out](https://sika-007.github.io/Expenses-Chart/)
-- [GitHub repository](https://github.com/sika-007/Expenses-Chart)
+- [Fancy looking a random word up yourself?](https://siktionary.netlify.app)
+- [View source code](https://github.com/sika-007/siktionary)
+
+### Quizzical
+<div align="center"><img width=500 src="https://user-images.githubusercontent.com/120806295/230747533-3c984528-5944-4ad4-9595-e311cbc52226.png" /></div>
+
+- [View web application](https://quizzical-application.netlify.app/)
+- [GitHub repository](https://github.com/sika-007/quizzical-app)
+
 
 ## Contact me
 
