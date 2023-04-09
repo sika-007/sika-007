@@ -31,7 +31,7 @@ Some selected projects to showcase my abilities. To see more, you can always hop
 ### Quizzical
 <div align="center"><img width=500 src="https://user-images.githubusercontent.com/120806295/230747533-3c984528-5944-4ad4-9595-e311cbc52226.png" /></div>
 
-- [View web application](https://quizzical-application.netlify.app/)
+- [Test your knowledge of the world😜](https://quizzical-application.netlify.app/)
 - [GitHub repository](https://github.com/sika-007/quizzical-app)
 
 
