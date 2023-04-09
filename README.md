@@ -1,6 +1,6 @@
 <div align="center"><img width=300px src="https://user-images.githubusercontent.com/120806295/230746442-9a06f59d-2101-4562-a882-8faf09911fe9.png" /></div>
 
-# About Me
+# <p align="center">About Me</p>
 ### Hi there 🤙👋
 
 I'm Sika, Your friendly neighbourhood frontend engineer passionate about creating appealing, interactive, efficient and responsive web products.
