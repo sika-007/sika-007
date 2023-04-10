@@ -29,7 +29,7 @@ Some selected projects to showcase my abilities. To see more, you can always hop
 - [View source code](https://github.com/sika-007/siktionary)
 
 ### Quizzical
-<div align="center"><img width=500 src="https://user-images.githubusercontent.com/120806295/230747533-3c984528-5944-4ad4-9595-e311cbc52226.png" /></div>
+<div align="center"><img width=500 src="https://user-images.githubusercontent.com/120806295/230902477-b156bf19-24a9-4b8a-8105-debf5586eb11.png" /></div>
 
 - [Test your knowledge of the world😜](https://quizzical-application.netlify.app/)
 - [GitHub repository](https://github.com/sika-007/quizzical-app)
