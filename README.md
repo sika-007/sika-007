@@ -8,7 +8,7 @@ I'm Sika, Your friendly neighbourhood frontend engineer passionate about creatin
 ## Technical Skills 🤓
 - HTML5 & JSX
 - CSS3, SCSS & Tailwindcss
-- JS (Vanilla)
+- JS
 - React.js
 - Material UI
 - Framer Motion and Three.js
