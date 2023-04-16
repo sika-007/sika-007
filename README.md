@@ -3,12 +3,13 @@
 # <p align="center">About Me</p>
 ### Hi there 🤙👋
 
-I'm Sika, Your friendly neighbourhood frontend engineer passionate about creating appealing, interactive, efficient and responsive web products.
+I'm Sika, Your friendly neighbourhood frontend engineer passionate about creating appealing, interactive, efficient and responsive web products. Check out my [portfolio](nsikakthomas.netlify.app)
 
 ## Technical Skills 🤓
 - HTML5 & JSX
 - CSS3, SCSS & Tailwindcss
-- JS
+- JavaScript
+- TypeScript
 - React.js
 - Material UI
 - Framer Motion and Three.js
