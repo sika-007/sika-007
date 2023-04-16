@@ -3,7 +3,7 @@
 # <p align="center">About Me</p>
 ### Hi there 🤙👋
 
-I'm Sika, Your friendly neighbourhood frontend engineer passionate about creating appealing, interactive, efficient and responsive web products. Check out my [portfolio](nsikakthomas.netlify.app)
+I'm Sika, Your friendly neighbourhood frontend engineer passionate about creating appealing, interactive, efficient and responsive web products.
 
 ## Technical Skills 🤓
 - HTML5 & JSX
@@ -15,7 +15,7 @@ I'm Sika, Your friendly neighbourhood frontend engineer passionate about creatin
 - Framer Motion and Three.js
 
 ## <p align="left">Wanna see the cool stuff I can do? 😏</p>
-Some selected projects to showcase my abilities. To see more, you can always hop into the Repositories section
+Some selected projects to showcase my abilities. To see more, you can always hop into the Repositories section or browse through my [portfolio](nsikakthomas.netlify.app).
 
 ### Youtube Clone
 <div align="center"><img width=500 src="https://user-images.githubusercontent.com/120806295/230747145-e268bae1-6e89-45e7-a24e-b03628852513.png" /></div>
