@@ -15,7 +15,7 @@ I'm Sika, Your friendly neighbourhood frontend engineer passionate about creatin
 - Framer Motion and Three.js
 
 ## <p align="left">Wanna see the cool stuff I can do? 😏</p>
-These projects have been separated from a bunch to showcase my abilities. To see more, you can always hop into the repositories section or browse through my [portfolio](nsikakthomas.netlify.app).
+These projects have been separated from a bunch to showcase my abilities. To see more, you can always hop into the repositories section or browse through my [portfolio](https://www.nsikakthomas.netlify.app).
 
 ### Youtube Clone
 <div align="center"><img width=500 src="https://user-images.githubusercontent.com/120806295/230747145-e268bae1-6e89-45e7-a24e-b03628852513.png" /></div>
