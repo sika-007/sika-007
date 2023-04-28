@@ -12,7 +12,8 @@ I'm Sika, Your friendly neighbourhood frontend engineer passionate about creatin
 - TypeScript
 - React.js
 - Material UI
-- Framer Motion and Three.js
+- Framer Motion
+- Three.js
 
 ## <p align="left">Wanna see the cool stuff I can do? 😏</p>
 These projects have been separated from a bunch to showcase my abilities. To see more, you can always hop into the repositories section or browse through my [portfolio](https://nsikakthomas.netlify.app).
