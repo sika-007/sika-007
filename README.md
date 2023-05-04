@@ -45,6 +45,8 @@ I'm open to working and collaborating on projects. You can reach me via:
 - [twitter](https://twitter.com/Un_sika)
 
 
+![](https://komarev.com/ghpvc/?username=sika-007&color=blueviolet&label=Visitations)
+
 <!---
 sika-007/sika-007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
