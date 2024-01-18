@@ -44,8 +44,8 @@ I'm open to working and collaborating on projects. You can reach me via:
 - [LinkedIn](https://www.linkedin.com/in/dev-sika/)
 - [twitter](https://twitter.com/Un_sika)
 
-
-![](https://komarev.com/ghpvc/?username=sika-007&color=blueviolet&label=Visitations)
+<!---![](https://komarev.com/ghpvc/?username=sika-007&color=blueviolet&label=Visitations)--->
+[![CodeTime badge](https://img.shields.io/endpoint?style=for-the-badge&color=black&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D18207%26project%3D%26in%3D0)](https://codetime.dev)
 
 <!---
 sika-007/sika-007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
